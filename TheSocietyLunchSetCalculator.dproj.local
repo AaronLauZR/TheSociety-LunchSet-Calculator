@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/11/12 08:37:13.000.517,=G:\Document\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/11/12 08:38:03.000.656,G:\Document\Embarcadero\Studio\Projects\Unit1.dfm=G:\Document\TheSocietyLunchSetCalculator\LunchSetCalculator.dfm</Transaction>
+    <Transaction>2025/11/12 08:38:03.000.656,G:\Document\Embarcadero\Studio\Projects\Unit1.pas=G:\Document\TheSocietyLunchSetCalculator\LunchSetCalculator.pas</Transaction>
+    <Transaction>2025/11/12 08:38:16.000.473,G:\Document\Embarcadero\Studio\Projects\Project1.dproj=G:\Document\TheSocietyLunchSetCalculator\TheSocietyLunchSetCalculator.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
